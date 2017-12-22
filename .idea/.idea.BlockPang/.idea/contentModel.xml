@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Ball" t="Include">
+            <e p="BallInfo.cs" t="Include" />
+            <e p="BallKeeper.cs" t="Include" />
+            <e p="BallManager.cs" t="Include" />
+            <e p="MoveBall.cs" t="Include" />
+          </e>
+          <e p="Block" t="Include">
+            <e p="BlockInfo.cs" t="Include" />
+            <e p="BlockManager.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="CountSys.cs" t="Include" />
+            <e p="UIgameOver.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="BlockPang.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_BlockPang.-396084180.00" t="ExcludeRecursive" />
+  </component>
+</project>
